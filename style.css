@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  
+}
+div.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     height: 60px;
+    width: 100%;
+    background-color: #172937;
+    overflow: hidden;
+}
+.item{
+    color: white;
+    padding: 10px 20px;
+list-style: none;
+}
+.menu{
+    display: flex;
+    }
+    .logo{
+        color: aliceblue;
+        padding: 10px 20px;
+    }
+    .resume{
+        border: 1px solid orangered;
+        background-color: #172937;
+        border-radius: 5px;
+        color: white;
+        width: 6vw;
+        height: 5vh;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+        
+    }
+    .sec{
+        width: 100%;
+        height: 90vh;
+        background-color: #172937;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .myself{
+        width: 60%;
+        
+        height: 80vh;
+        padding: 60px 40px;
+    }
+    .div2{
+        width: 30%;
+        
+        height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .hero{
+        margin-top: 30px;
+        font-size:40px;
+        color:white;
+    }
+    .hero2{
+        margin-top: 20px;
+        font-size: 20px;
+        color:white;
+    }
+    .hero3{
+        margin-top: 50px;
+        color: #595d61;
+    }
+    .EA{
+        color: orangered;
+    }
+    .photo{
+        width: 80%;
+        height: 70%;
+        background-color: #fff;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+    .a121{
+        color: #fff;
+    }
+    

@@ -1,0 +1,62 @@
+.project{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(216, 221, 172);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    width: 70%;
+    height: 15vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 27px;
+}
+
+
+.column{
+    width: 100%;
+    height: 70vh;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+#p1{
+    color: #c02e2e;
+}
+.pname{
+    width: 27vw;
+    height: 60vh;
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+
+}
+.ms{
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.yo{
+    margin-top: 20px;
+}
+.ph{
+    color: orangered;
+    padding: 10px 0px 0px 20px ;
+}
+.ph2{
+    padding: 10px 0px 0px 20px ;
+}
+.ph3{
+    padding: 10px 0px 0px 20px ;
+    font-size: small;
+}
+
+
+

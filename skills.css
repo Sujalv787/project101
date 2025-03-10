@@ -1,0 +1,50 @@
+.skills{
+width: 100%;
+height: 100vh;
+background-color: rgb(216, 221, 172);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.myskill{
+    margin-top: 5vh;
+    width: 75%;
+    height: 20vh;
+    background-color: rgb(216, 221, 172);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+}
+.languages{
+    width: 90%;
+height: 50vh;
+background-color: #fff;
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-around;
+}
+.ps{
+    margin-bottom: 20px;
+}
+.lang1{
+    width: 8vw;
+    height: 6vh;
+ display: flex;
+ align-items: center;
+ padding-left: 1%;
+    border: 1px solid orangered;
+    border-radius: 8px;
+}
+.lang2{
+
+    width: 13vw;
+    height: 6vh;
+    border: 1px solid orangered;
+    border-radius: 8px;
+}
